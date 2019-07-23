@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[博客测试文章]]></title>
+    <url>%2F2019%2F07%2F22%2F%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"><![CDATA[前言 春天是诗歌的季节，从古到今，也不知有多少诗人，也不知有多少诗句，随春风而生，然后化成细雨，潜入不觉晓的梦中，待您醒来，那隔夜的闲愁，拂了一身还满，朝露不待日晞，黄莺不待草长，恍然间，已是桃红李白菜花黄。 第一章 偷得浮生半日闲《钱塘湖春行》 【唐】白居易 孤山寺北贾亭西，水面初平云脚低。 几处早莺争暖树，谁家新燕啄春泥。 乱花渐欲迷人眼，浅草才能没马蹄。 最爱湖东行不足，绿杨阴里白沙堤。 《滁州西涧》 【唐】韦应物 独怜幽草涧边生，上有黄鹂深树鸣。 春潮带雨晚来急，野渡无人舟自横。 《江南春》 【唐】杜牧 千里莺啼绿映红，水村山郭酒旗风。 南朝四百八十寺，多少楼台烟雨中。 《题鹤林寺僧舍》 【唐】李涉 终日昏昏醉梦间，忽闻春尽强登山。 因过竹院逢僧话，偷得浮生半日闲。 第二章 此时此夜难为情《长相思》 【唐】白居易 汴水流，泗水流，流到瓜州古渡头。 吴山点点愁。 思悠悠，恨悠悠，恨到归时方始休。 月明人倚楼。 《问刘十九》 【唐】白居易 绿蚁新醅酒，红泥小火炉。 晚来天欲雪，能饮一杯无。 《蝶恋花》 【宋】欧阳修 庭院深深深几许，杨柳堆烟，帘幕无重数。 玉勒雕鞍游冶处，楼高不见章台路。 雨横风狂三月暮，门掩黄昏，无计留春住。 泪眼问花花不语，乱红飞过秋千去。 《三五七言》 【唐】李白 秋风清，秋月明， 落叶聚还散，寒鸦栖复惊， 相思相见知何日，此时此夜难为情。 参考文献https://hexo.io/zh-cn/docs/commandshttps://www.lixint.mehttp://parryqiu.com/ EasyiconFontAwesome]]></content>
+      <categories>
+        <category>-测试</category>
+      </categories>
+      <tags>
+        <tag>-测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F07%2F08%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
